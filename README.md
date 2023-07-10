@@ -5,7 +5,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 ## Información general
 
-- [Rúbrica del curso](./documentos/documento-plan-curso.pdf)
+- [Rúbrica del curso](./documento-plan-curso.pdf)
 
 - [Zoom de clases permanente](https://us06web.zoom.us/s/85927617596?pwd=WE90SXpLS2tCbXUyRUpGS0tXZTRiUT09)
 
