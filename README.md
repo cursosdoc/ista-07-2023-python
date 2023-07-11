@@ -28,4 +28,6 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 ## Clases Previas
 
-- No disponible.
+- [Grabaciones de clases](https://us06web.zoom.us/rec/share/MxHDbpPvlBYqoSq_PWHEy4AYrX-kbFTluIC8X2mx_W7mktZ4zkmZjQPNQEHE10Uj.LPw7BjoCGNwWVb6i)
+
+🗝️ Clave: 12345
