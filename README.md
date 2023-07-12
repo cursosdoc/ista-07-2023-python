@@ -20,14 +20,7 @@ La primera vez, es necesario realizar el registro en Zoom con un correo activo.
 
 - No disponible.
 
-## Recursos
-
-Los recursos aplicables a cada clase se compartirán en la tabla inferior, se recomienda usar [Google Translate](https://translate.google.com/?sl=en&tl=es&op=websites) cuando sea necesario traducirlas a español.
-
-- No disponible.
-
 ## Clases Previas
 
-- [Grabaciones de clases](https://us06web.zoom.us/rec/share/MxHDbpPvlBYqoSq_PWHEy4AYrX-kbFTluIC8X2mx_W7mktZ4zkmZjQPNQEHE10Uj.LPw7BjoCGNwWVb6i)
-
-🗝️ Clave: 12345
+- [Clase 1](https://us06web.zoom.us/rec/share/MxHDbpPvlBYqoSq_PWHEy4AYrX-kbFTluIC8X2mx_W7mktZ4zkmZjQPNQEHE10Uj.LPw7BjoCGNwWVb6i)
+- [Clase 2](https://us06web.zoom.us/rec/share/3SZ5--fz_jCOl2Gv9lLA5fEwbYEl64mWn6yEizDaCuugC44eTKDy57RExj65F9c2.5_udnyOrIIPRoN8U)
