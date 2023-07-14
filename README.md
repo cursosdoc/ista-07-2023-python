@@ -25,3 +25,4 @@ La primera vez, es necesario realizar el registro en Zoom con un correo activo.
 - [Clase 1](https://us06web.zoom.us/rec/share/MxHDbpPvlBYqoSq_PWHEy4AYrX-kbFTluIC8X2mx_W7mktZ4zkmZjQPNQEHE10Uj.LPw7BjoCGNwWVb6i)
 - [Clase 2](https://us06web.zoom.us/rec/share/3SZ5--fz_jCOl2Gv9lLA5fEwbYEl64mWn6yEizDaCuugC44eTKDy57RExj65F9c2.5_udnyOrIIPRoN8U)
 - [Clase 3](https://us06web.zoom.us/rec/share/BnMjDkHWn_QnYh1hkmEzx81Rxmf-yqUiAPaNNaSuXbNtpeJkpobENcRLKesvs3xQ.hDAIG2ob_03bK88v)
+- [Clase 4](https://us06web.zoom.us/rec/share/93VADdEJuDdvKj5Hdiwgm9AxM4_eFqnKwxh7GhMHlM87vpiaxI9qLYCLXXr0EMw4.HkKeq7sQelL9rsw-)
