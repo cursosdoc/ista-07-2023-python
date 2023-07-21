@@ -29,3 +29,4 @@ La primera vez, es necesario realizar el registro en Zoom con un correo activo.
 - Clase 5 no disponible por error de grabación.
 - [Clase 6](https://us06web.zoom.us/rec/share/e8GzoeHgH70oNDoW2-xJPvbF61oDjubK9RBDW9VVclAliWpKSun2WJccXXGcyJcY.WkT00RXaun5O9sNH)
 - [Clase 7](https://us06web.zoom.us/rec/share/y48Jw-SZ0Yb20tz1kRDIrL6QhWDeQ44lUB_23QEItDq2oKmpaI5pBuQ5SJuSsuCM.9vHPoD0KjzUB_bEZ)
+- [Clase 8](https://us06web.zoom.us/rec/share/7EpYOWidiDlv2YAncsQzdxul3maGCFpGVAhh6pTAkbY7fuKaaXbD6FHj8tq_Q4Y.XFcRzHrC1KOO2e84)
