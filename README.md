@@ -19,6 +19,7 @@ La primera vez, es necesario realizar el registro en Zoom con un correo activo.
 ## Proyecto
 
 - [Carpeta del proyecto](./proyecto)
+- Para fecha de entrega revisar documento
 
 ## Clases Previas
 
