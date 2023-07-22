@@ -18,7 +18,7 @@ La primera vez, es necesario realizar el registro en Zoom con un correo activo.
 
 ## Proyecto
 
-- No disponible.
+- [Carpeta del proyecto](./proyecto)
 
 ## Clases Previas
 
